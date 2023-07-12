@@ -1,0 +1,31 @@
+      "client_info": {
+        "mobilesdk_app_id": "1:160280168650:android:1ec94595f22aa996a9cc33",
+        "android_client_info": {
+          "package_name": "com.myapp.savewisely"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "160280168650-ultrgq8j8bdnk3ngei00t871fuknv89i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRYSDRdJugAKxQ8Y0xRCjisurWRdZZ1e8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "160280168650-als6id79vlig2ebh7nf2sngaqf0v5tbr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

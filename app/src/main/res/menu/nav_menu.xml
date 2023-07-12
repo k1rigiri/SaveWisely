@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/ic_transaction"
+        android:icon="@drawable/ic_balance"
+        android:title="List"
+        app:cnb_iconColor="@color/blue_primary"
+        />
+
+    <item
+        android:id="@+id/ic_qr_code"
+        android:icon="@drawable/ic_qrcode"
+        android:title="QR"
+        app:cnb_iconColor="#747474"
+        />
+
+    <item
+        android:id="@+id/ic_account"
+        android:icon="@drawable/ic_person"
+        android:title="Account"
+        app:cnb_iconColor="@color/violet_secondary"
+        />
+</menu>
